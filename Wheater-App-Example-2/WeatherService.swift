@@ -47,7 +47,7 @@ class WeatherService {
             
             print("lat >>>>> \(lat!)" )
             print("lon >>>>> \(lon!)" )
-            print("Temp >>>>> \(temp!)")
+//print("Temp >>>>> \(temp!)")
             
         }
         task.resume()
